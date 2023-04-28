@@ -1,1 +1,6 @@
+[Adblock Plus 2.0]
+! Title: SUBIE Pフィルタ
+! !
+! 最終更新 2023/04/28
+!
 youtube.com##.ytd-popup-container
